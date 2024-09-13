@@ -1,1 +1,1 @@
-A nice and simple portfolio page for programmers        
+A nice and easy portfolio page for programmers         
